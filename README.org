@@ -1,19 +1,16 @@
-# Noematon
+* Noematon
 
-a C-based simulation engine that merges agent-based dynamics, semiotic processes, and image-guided pattern writing on a shared canvas. 
+a C-based simulation engine that merges agent-based dynamics, semiotic processes, and image-guided pattern writing on a shared canvas.
 It is not just a graphics program—it is an experiment in how symbols, rituals, and names emerge in a distributed system.
-## Features
+** Features
 
-- Canvas-based simulation with configurable resolution (432x324 default).
+*** Canvas-based simulation with configurable resolution (432x324 default).
 
-- Two-phase process:
+***  Two-phase process:
 
 - Simulation phase – agents evolve through symbolic interactions (naming, ritualized coordination, action-binding).
-
 - Pattern writing phase – agents converge toward a target image (IMG1.jpeg), embedding semiotic traces into visual form.
-
-- Semiotic engine:
-
+*** Semiotic engine
 - Agents can invent and share names (up to 254).
 
 - Names are linked to actions (movement, drawing, transformations).
@@ -21,5 +18,5 @@ It is not just a graphics program—it is an experiment in how symbols, rituals,
 - Rituals emerge when names/actions repeat successfully; once thresholds are crossed, rituals become stable semiotic anchors.
 
 - Failure or misuse erodes symbolic stability.
-
-- Embodied sense-making: signs are not static, but enacted through repetition, feedback, and collective alignment.
+*** Embodied sense-making
+- signs are not static, but enacted through repetition, feedback, and collective alignment.
